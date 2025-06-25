@@ -1,15 +1,6 @@
-<!-- Header Banner (Optional - Replace with your own hosted banner) -->
-<p align="center">
-  <img src="https://i.imgur.com/F8bWQdO.png" alt="Banner" />
-</p>
-
-<!-- Profile Picture (Optional - Replace with your GitHub profile image link) -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="120" alt="Nitin Saini" style="border-radius: 50%;" />
-</p>
 
 <h1 align="center">Hi there, I'm Nitin Saini 👋</h1>
-<h3 align="center">A passionate Full Stack MERN Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 ---
 
