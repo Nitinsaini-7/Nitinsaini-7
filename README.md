@@ -1,5 +1,10 @@
-# ✨ About Me:
-## 👨‍💻 About Me<br><br>🛠️ I’m a MERN Stack Developer focused on building secure and scalable full-stack web apps.<br><br>📚 Currently learning Next.js 15, TypeScript, and AWS for cloud deployment.<br><br>🤝 Open to collaborating on meaningful open-source or freelance projects.<br><br>💡 Ask me about React, Node.js, MongoDB, or API integrations.<br><br>⚡ Fun fact: I love turning complex problems into simple, user-friendly solutions.<br><br>📫 How to reach me: [Portfolio](https://personal-portfolio-nitin-saini.vercel.app/)
+## ✨ About Me:
+🛠️ I’m a MERN Stack Developer focused on building secure and scalable full-stack web apps.  
+📚 Currently learning Next.js 15, TypeScript, and AWS for cloud deployment.  
+🤝 Open to collaborating on meaningful open-source or freelance projects.  
+💡 Ask me about React, Node.js, MongoDB, or API integrations.  
+⚡ Fun fact: I love turning complex problems into simple, user-friendly solutions.  
+📫 How to reach me: [Portfolio](https://personal-portfolio-nitin-saini.vercel.app/)
 
 
 ## 🌐 Socials:
