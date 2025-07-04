@@ -49,6 +49,8 @@
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+  <img src="https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux&logoColor=white" />
+
 </p>
 
 ### Deployment & Dev Tools
